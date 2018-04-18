@@ -3,4 +3,4 @@ node_js: "8.9"
 deploy:
   provider: heroku
   api_key: $HEROKU_KEY
-  app: https://shrouded-forest-20868.herokuapp.com
+  app: shrouded-forest-20868
